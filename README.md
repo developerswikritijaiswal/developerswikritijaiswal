@@ -1,4 +1,9 @@
 # 💫 About Me:
+
+Hi there 👋
+
+Nice Meeting you, I'm Swikriti!
+
 🔭 I’m currently working on IGP<br>👯 I’m looking to collaborate on open-source and research-driven projects<br>🤝 I’m looking for help with system design and optimization<br>🌱 I’m currently learning new technologies, frameworks, and problem-solving skills<br>💬 Ask me about programming, projects, or tech in general<br>⚡ Fun fact I debug better at night 🌙
 
 
